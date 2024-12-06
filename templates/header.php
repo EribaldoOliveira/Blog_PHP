@@ -8,7 +8,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Blog PHP_Eribaldo Oliveira</title>
+  <title>Blog Codar</title>
   <!-- ESTILOS DO PROJETO -->
   <link rel="stylesheet" href="<?= $BASE_URL ?>/css/styles.css">
   <!-- GOOGLE FONTS -->
@@ -18,7 +18,7 @@
 <body>
   <header>
     <a href="<?= $BASE_URL ?>" id="logo">
-      <img src="<?= $BASE_URL ?>/img/logo.svg" alt="Blog PHP_Eribaldo Oliveira">
+      <img src="<?= $BASE_URL ?>/img/logo.svg" alt="Blog Codar">
     </a>
     <nav>
       <ul id="navbar">
